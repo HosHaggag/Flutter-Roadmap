@@ -33,7 +33,7 @@ you can choose whatever you want but we recommend this tutorial..
 
 
 
-### **Angela Paid Course **:
+### **Angela Paid Course :**
 
 [The Complete 2021 Flutter Development Bootcamp with Dart | Udemy](https://www.udemy.com/course/flutter-bootcamp-with-dart/?fbclid=IwAR0vwfBwCpg1ES_5FdZyyBYzFILsq7mZ1gLLKZ2xWmQdM-BQvhUuHTenNGQ)
 
