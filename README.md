@@ -49,7 +49,7 @@ Free one :
 
 free one:
 
-[Flutter & Dart – The Complete Guide [2020 Edition] - ShareAppsCrack](https://learning.shareappscrack.com/course/learn-flutter-dart-to-build-ios-android-apps)
+[Flutter & Dart – The Complete Guide [2020 Edition] ](https://mega.nz/folder/3fBh3CTa#ptLNpx-dVr_hF0t5InosOQ)
 
 
 ------------------------------------------------------------------------------------------------------------
