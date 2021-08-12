@@ -39,7 +39,7 @@ you can choose whatever you want but we recommend this tutorial..
 
 Free one :
 
-[The Complete 2020 Flutter Development Bootcamp with Dart](https://learning.shareappscrack.com/course/the-complete-flutter-development-bootcamp-with-dart?fbclid=IwAR1GDfHxVXhXHAmXPtkngGVpEz4p7wmm8W6QqNDYoosWHjbISgS6bzrzaHA)
+[The Complete 2020 Flutter Development Bootcamp with Dart](https://mega.nz/folder/rvwg2LKR#g3M_hUo_eyHFehtJ0sBbUg)
 
 
 
