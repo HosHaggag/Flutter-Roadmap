@@ -61,8 +61,8 @@ VMonz0cHRG3/view?usp=sharing">Flutter Complete Reference</a>
 ---
 
 # Flutter
-<p>
-    <img src="https://github.com/hoshos231/Flutter-Roadmap/blob/master/images/Flutter%20Logo.svg">
+<p align="center">
+    <img src="https://github.com/hoshos231/Flutter-Roadmap/blob/master/images/flutter.png">
 </p>
 
 ### Flutter Basics
