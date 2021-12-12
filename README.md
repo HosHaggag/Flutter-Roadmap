@@ -77,11 +77,10 @@ BwCpg1ES_5FdZyyBYzFILsq7mZ1gLLKZ2xWmQdM-BQvhUuHTenNGQ">Angela Course</a>
 ### **1 – UI Tasks:**
 
 
-> <a href="https://dribbble.com/shots/8245907/attachments/604807?mode=media">Coffee House app</a>
+> <a href="https://github.com/hoshos231/Flutter-Roadmap/tree/master/UI%20Tasks/Coffee%20House%20App">Coffee House app</a>
 
 
-> <a href="https://dribbble.com/shots/4486758-Relationship-Coaching-App/attachme
-> nts/1017305">Talent Hire</a>
+> <a href="https://github.com/hoshos231/Flutter-Roadmap/tree/master/UI%20Tasks/Talent%20Hire">Talent Hire</a>
 
 
 ### **2 – API And Logic Tasks:**
