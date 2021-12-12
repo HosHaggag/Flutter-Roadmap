@@ -91,26 +91,20 @@ BwCpg1ES_5FdZyyBYzFILsq7mZ1gLLKZ2xWmQdM-BQvhUuHTenNGQ">Angela Course</a>
 > <a href="https://newsapi.org/">API</a>
 
 
-> <a href="https://www.behance.net/gallery/127649367/News-Application?tr
-> acking_source=search_projects_recommended%7CNews%20APP%
-> 20UI">UI</a>
-
+> <a href="https://github.com/hoshos231/Flutter-Roadmap/tree/master/API%20And%20Logic%20Tasks/News%20App">UI</a>
 
 **b- Weather App with API and Location:**
  
 > <a href="https://openweathermap.org/api">API</a>
 
 
-> <a href="https://www.behance.net/gallery/54398239/Weather-App-Concep
-> t?tracking_source=search_projects_recommended%7Cweather%20
-> app">UI</a>
+> <a href="https://github.com/hoshos231/Flutter-Roadmap/tree/master/API%20And%20Logic%20Tasks/Weather%20App">UI</a>
 
 
 
 **c- To-do App with Sqflit:**
 
-> <a href="https://drive.google.com/drive/folders/1Pzw8F3YL3IH9JInvGZSOri
-> hdHJrWUABT">UI</a>
+> <a href="https://github.com/hoshos231/Flutter-Roadmap/tree/master/API%20And%20Logic%20Tasks/To-do%20App">UI</a>
 
 ---
 
