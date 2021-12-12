@@ -4,7 +4,7 @@
 ---
 # Dart
 <p align="center">
-  <img src="D:\CAT Reloaded\Flutter-Roadmap-main\images\Dart.png">
+  <img src="https://github.com/hoshos231/Flutter-Roadmap/blob/master/images/Dart.png">
 </p>
 Dart is a client-optimized, garbage-collected, OOP language for creating
 fast apps that run on any platform. If you are familiar with an object oriented
@@ -62,7 +62,7 @@ VMonz0cHRG3/view?usp=sharing">Flutter Complete Reference</a>
 
 # Flutter
 <p>
-    <img src="D:\CAT Reloaded\Flutter-Roadmap-main\images\flutter.png">
+    <img src="https://github.com/hoshos231/Flutter-Roadmap/blob/master/images/Flutter%20Logo.svg">
 </p>
 
 ### Flutter Basics
