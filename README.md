@@ -13,8 +13,8 @@ with Dart. In this road map, you will learn about Dart in two parts: Basics &
 Advanced.
 
 ---
-### Dart Basics
-#### Studying Material (in Arabic):
+## Dart Basics
+### Studying Material (in Arabic):
 Videos from 01 to 37 from the following playlist.
 
 ● <a href="https://www.youtube.com/watch?v=ZYXol94Lyi0&list=PL3aG1K3LWC
@@ -26,13 +26,13 @@ version 2.12.
 
 ● <a href="https://www.youtube.com/watch?v=nTmCj1lpeng">Null Safety: What is null safety</a>
 
-#### Tasks:
+### Tasks:
 
 ● <a href="https://docs.google.com/document/d/1QgQZ8jcXgq_ecEBXtojVsSLux787Hdp_wGUJvO09XTs/edit?usp=sharing" target="_blank">Basic Task</a>
 
 ---
-### Dart Advanced
-#### Studying Material (in Arabic):
+## Dart Advanced
+### Studying Material (in Arabic):
 Videos from 38 to the end of the following playlist.
 
 ● <a href="https://www.youtube.com/watch?v=ZYXol94Lyi0&list=PL3aG1K3LWC
@@ -44,7 +44,7 @@ Tasks:
 sVb67qhvA4WjYlzo9c/edit?usp=sharing">Advance Task</a>
 
 ---
-### Additional Resources
+## Additional Resources
 
 
 * <a href="https://www.youtube.com/watch?v=HVYlPAw70MU&list=PLMDrOnfT
@@ -65,16 +65,16 @@ VMonz0cHRG3/view?usp=sharing">Flutter Complete Reference</a>
     <img src="https://github.com/hoshos231/Flutter-Roadmap/blob/master/images/flutter.png">
 </p>
 
-### Flutter Basics
-#### Angela course:
-##### paid
+## Flutter Basics
+### Angela course:
+#### paid
 <a href="https://www.udemy.com/course/flutter-bootcamp-with-dart/?fbclid=IwAR0vwf
 BwCpg1ES_5FdZyyBYzFILsq7mZ1gLLKZ2xWmQdM-BQvhUuHTenNGQ">Angela Course</a>
-##### Free:
+#### Free:
 <a href="https://mega.nz/folder/rvwg2LKR#g3M_hUo_eyHFehtJ0sBbUg">Angela Course</a>
 
-#### Tasks:
-##### **1 – UI Tasks:**
+## Tasks:
+### **1 – UI Tasks:**
 
 
 > <a href="https://dribbble.com/shots/8245907/attachments/604807?mode=media">Coffee House app</a>
@@ -84,24 +84,24 @@ BwCpg1ES_5FdZyyBYzFILsq7mZ1gLLKZ2xWmQdM-BQvhUuHTenNGQ">Angela Course</a>
 > nts/1017305">Talent Hire</a>
 
 
-##### **2 – API And Logic Tasks:**
+### **2 – API And Logic Tasks:**
 
 **a- News App with API:**
 
-> ● <a href="https://newsapi.org/">API</a>
+> <a href="https://newsapi.org/">API</a>
 
 
-> ● <a href="https://www.behance.net/gallery/127649367/News-Application?tr
+> <a href="https://www.behance.net/gallery/127649367/News-Application?tr
 > acking_source=search_projects_recommended%7CNews%20APP%
 > 20UI">UI</a>
 
 
 **b- Weather App with API and Location:**
  
-> ● <a href="https://openweathermap.org/api">API</a>
+> <a href="https://openweathermap.org/api">API</a>
 
 
-> ● <a href="https://www.behance.net/gallery/54398239/Weather-App-Concep
+> <a href="https://www.behance.net/gallery/54398239/Weather-App-Concep
 > t?tracking_source=search_projects_recommended%7Cweather%20
 > app">UI</a>
 
@@ -109,12 +109,12 @@ BwCpg1ES_5FdZyyBYzFILsq7mZ1gLLKZ2xWmQdM-BQvhUuHTenNGQ">Angela Course</a>
 
 **c- To-do App with Sqflit:**
 
-> ● <a href="https://drive.google.com/drive/folders/1Pzw8F3YL3IH9JInvGZSOri
+> <a href="https://drive.google.com/drive/folders/1Pzw8F3YL3IH9JInvGZSOri
 > hdHJrWUABT">UI</a>
 
 ---
 
-### Additional Resources
+## Additional Resources
 * <a href="https://www.udemy.com/course/complete-flutter-arabic/">Abdullah Mansour</a>
 * <a href="https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905">Udacity course</a>
 * <a href="https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/">Maximillian Paid Course</a>
