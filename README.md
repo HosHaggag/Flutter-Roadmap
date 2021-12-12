@@ -28,7 +28,7 @@ version 2.12.
 
 ### Tasks:
 
-● <a href="https://docs.google.com/document/d/1QgQZ8jcXgq_ecEBXtojVsSLux787Hdp_wGUJvO09XTs/edit?usp=sharing" target="_blank">Basic Task</a>
+● <a href="https://github.com/hoshos231/Flutter-Roadmap/blob/master/Beginner%20Tasks/Dart%20Basics%20Tasks.pdf" target="_blank">Basic Task</a>
 
 ---
 ## Dart Advanced
