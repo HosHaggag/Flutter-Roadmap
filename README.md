@@ -70,8 +70,7 @@ VMonz0cHRG3/view?usp=sharing">Flutter Complete Reference</a>
 #### paid
 <a href="https://www.udemy.com/course/flutter-bootcamp-with-dart/?fbclid=IwAR0vwf
 BwCpg1ES_5FdZyyBYzFILsq7mZ1gLLKZ2xWmQdM-BQvhUuHTenNGQ">Angela Course</a>
-#### Free:
-<a href="https://mega.nz/folder/rvwg2LKR#g3M_hUo_eyHFehtJ0sBbUg">Angela Course</a>
+
 
 ## Tasks:
 ### **1 – UI Tasks:**
@@ -111,7 +110,6 @@ BwCpg1ES_5FdZyyBYzFILsq7mZ1gLLKZ2xWmQdM-BQvhUuHTenNGQ">Angela Course</a>
 * <a href="https://www.udemy.com/course/complete-flutter-arabic/">Abdullah Mansour</a>
 * <a href="https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905">Udacity course</a>
 * <a href="https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/">Maximillian Paid Course</a>
-* <a href="https://mega.nz/folder/3fBh3CTa#ptLNpx-dVr_hF0t5InosOQ">Maximillian Free Course
 </a>
 
 ---
